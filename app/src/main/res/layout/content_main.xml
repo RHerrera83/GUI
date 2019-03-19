@@ -49,7 +49,7 @@
         android:layout_height="32dp"
         android:layout_marginEnd="153dp"
         android:layout_marginRight="153dp"
-        android:text="LED ON/OFF"
+        android:text="We Scare Because we Care ON/OFF"
         app:layout_constraintBottom_toTopOf="@+id/switch4"
         app:layout_constraintEnd_toEndOf="parent" />
 
