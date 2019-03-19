@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="csm_robotics_team">CSM Robotics Team</string>
+    <string name="button01">Button</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="button02">Button</string>
+</resources>
