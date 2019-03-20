@@ -28,7 +28,7 @@
         android:layout_height="40dp"
         android:layout_marginEnd="148dp"
         android:layout_marginRight="148dp"
-        android:text="Bluetooth ON/OFF"
+        android:text="A113 ON/OFF"
         app:layout_constraintBottom_toTopOf="@+id/switch3"
         app:layout_constraintEnd_toEndOf="parent" />
 
